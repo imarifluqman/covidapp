@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h3{
+    text-align: center;
+    margin-top: 30px;
+    background-color: greenyellow;
+    padding: 10px 0;
+}
+table thead tr td{
+    background-color: rgb(139, 247, 7);
+    border: 1px solid green;
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(107, 105, 105);
+}
+table tbody tr td{
+    border: 1px solid green;
+    text-transform: capitalize;
+    text-align: center;
+    background-color: rgb(203, 253, 203);
+    font-size: 18px;
+    font-weight: bold;
+}
